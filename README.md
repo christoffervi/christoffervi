@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Christoffer Vissing</h1>
-<h3 align="center">MD, PhD candidate in cardiology, working on cardiomyopathies</h3>
+<h1 align="center">Hi 👋, I'm Christoffer Vissing 🧑 </h1>
+<h3 align="center">MD, PhD candidate in cardiology:heart:, working on cardiomyopathies, father of 2 :family_man_woman_boy_boy:	 </h3>
 
-- 🔭 I’m currently working on my PhD **"Precision diagnostics in cardiomyopathies"** @Copenhagen University Hospital, Rigshospitalet
-- Researcher with interests in inherited cardiac disorders, interventional studies, epidemiology, exercise and big R/ Tidyverse fan
-- 📝 See scientific manuscripts on [https://pubmed.ncbi.nlm.nih.gov/?term=vissing+c%5Bauthor%5D&sort=pubdate&filter=dates.1990%2F1%2F1-2021%2F10%2F25](https://pubmed.ncbi.nlm.nih.gov/?term=vissing+c%5Bauthor%5D&sort=pubdate&filter=dates.1990%2F1%2F1-2021%2F10%2F25)
+- 🔭 Currently working on my PhD :man_student: **"Precision diagnostics in cardiomyopathies"** @Copenhagen University Hospital, Rigshospitalet
+- :man_scientist: Researcher with interests in inherited cardiac disorders, interventional studies, epidemiology, exercise and big R-Tidyverse fan
+- 📝 See scientific manuscripts on https://pubmed.ncbi.nlm.nih.gov/?term=vissing+C
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
