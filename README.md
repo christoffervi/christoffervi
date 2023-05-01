@@ -3,7 +3,7 @@
 
 - 🔭 Currently a post doc :man_student: PhD titled **"Precision diagnostics in cardiomyopathies"** @Copenhagen University Hospital, Rigshospitalet
 - :man_scientist: Researcher with interests in inherited cardiac disorders, interventional studies, epidemiology, exercise and big R-Tidyverse fan
-- 📝 See scientific manuscripts on https://pubmed.ncbi.nlm.nih.gov/?term=vissing+C
+- 📝 See scientific manuscripts on https://pubmed.ncbi.nlm.nih.gov/?term=vissing+C or https://orcid.org/0000-0002-0834-206X
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
