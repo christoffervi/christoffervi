@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christoffer Vissing 🧑 </h1>
-<h3 align="center">MD, PhD in cardiology:heart:, working on cardiomyopathies, father of 2 :family_man_woman_boy_boy:	 </h3>
+<h3 align="center">MD, PhD in cardiology:heart:, working on cardiomyopathies.	 </h3>
 
 - 🔭 Currently a post doc :man_student: PhD titled **"Precision diagnostics in cardiomyopathies"** @Copenhagen University Hospital, Rigshospitalet
 - :man_scientist: Researcher with interests in inherited cardiac disorders, interventional studies, epidemiology, exercise and big R-Tidyverse fan
